@@ -40,6 +40,8 @@
 				<version>1.55</version>
 				<configuration>
 					<port>3334</port> <!-- optional override of default value 3333-->
+					<docId>wcs-java-impl</docId>
+					<deployRoot>znai-build</deployRoot>
 				</configuration>
 			</plugin>
 		</plugins>
