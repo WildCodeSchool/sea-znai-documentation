@@ -1,5 +1,5 @@
 ---
-title: Week 1 CLI & Collaboration
+title: Week 1 - CLI & Collaboration
 ---
 # Quests 
 

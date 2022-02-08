@@ -1,5 +1,5 @@
 ---
-title: Week 2 Advanced Versioning & Introduction Java
+title: Week 2 - Advanced Versioning & Introduction to Java
 ---
 # Quests
 

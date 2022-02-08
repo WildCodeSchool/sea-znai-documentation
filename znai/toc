@@ -1,6 +1,16 @@
 structure
     week-1-cli-and-collaboration
     week-2-advanced-versioning-and-intro-java
+    week-3-oop-and-testing
+    week-4-files-and-collections
+    week-5-java-sdk-and-project-start
+    week-6-relational-databases-modelling-and-sql
+    week-7-advanced-sql-and-modelling
+    week-8-maven-and-spring
+    week-9-spring-ioc-and-di
+    week-10-advanced-java-streams-and-lambdas
+    week-11-rest-and-api-design
+    week-12-concepts-of-spring-web-applications
 syllabus
     collaboration
     databases
